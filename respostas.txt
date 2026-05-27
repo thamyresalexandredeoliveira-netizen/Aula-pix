@@ -1,0 +1,3 @@
+1. Trabalho em Equipe: O código fica isolado em blocos if/else. Assim, eu e meu colega mexemos no mesmo arquivo sem um apagar o trabalho do outro.
+2. Disciplina: Esquecer uma flag errada quebra o site em produção. O cliente não consegue pagar e abandona o carrinho. Checar antes evita prejuízo.
+3. Visão de Negócio: Se o PIX do banco cair na Black Friday, o dono desliga a flag e a opção some do site. Não precisa tirar o sistema do ar e a loja continua vendendo no cartão.
